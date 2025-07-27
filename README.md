@@ -1,8 +1,8 @@
-Simple Calculator web app:
+📋Simple Calculator web app:
 
 A calculator web app lets users perform basic arithmetic operations like addition, subtraction, multiplication, and division, right in the browser.
 
-Features:
+📌Features:
 
 Addition, subtraction, multiplication, division
 
@@ -14,7 +14,7 @@ User-friendly interface
 
 Basic error handling (e.g., division by zero)
 
-Demo:
+🧪Demo:
 
 You can try the calculator by opening the index.html file in your browser.
 
@@ -28,7 +28,7 @@ Click = to calculate the result.
 
 Click C to clear the display.
 
-Technologies Used:
+🛠Technologies Used:
 
 HTML5
 
